@@ -1,5 +1,6 @@
-application:
-  name: USER-SERVER
+spring:
+  application:
+    name: USER-SERVER
 eureka:
   instance:
     prefer-ip-address: true
